@@ -1,0 +1,20 @@
+[
+  { "name": "Flame", "pattern": "flame", "tier": 1, "castWindowMs": 3800, "school": "fire", "effect": "none", "basePower": 22, "manaCost": 6 },
+  { "name": "Frost", "pattern": "frost", "tier": 1, "castWindowMs": 3800, "school": "ice", "effect": "none", "basePower": 22, "manaCost": 6 },
+  { "name": "Spark", "pattern": "spark", "tier": 1, "castWindowMs": 3800, "school": "arcane", "effect": "none", "basePower": 22, "manaCost": 6 },
+  { "name": "Barrier", "pattern": "Bar#Ward", "tier": 1, "castWindowMs": 5000, "school": "arcane", "effect": "shield", "basePower": 0, "manaCost": 8 },
+
+  { "name": "Shatter", "pattern": "Shat!ter", "tier": 2, "castWindowMs": 5000, "school": "arcane", "effect": "interrupt", "basePower": 22, "manaCost": 9 },
+  { "name": "Glacier", "pattern": "Gla_Cier", "tier": 2, "castWindowMs": 5000, "school": "ice", "effect": "slow", "basePower": 20, "manaCost": 8 },
+  { "name": "Flame Arc", "pattern": "fL@me/9", "tier": 2, "castWindowMs": 2300, "school": "fire", "effect": "none", "basePower": 20, "manaCost": 14 },
+  { "name": "Mind Needle", "pattern": "psy!N3", "tier": 2, "castWindowMs": 2400, "school": "psy", "effect": "none", "basePower": 16, "manaCost": 11 },
+
+  { "name": "Conflagration", "pattern": "Conflagr4tion9", "tier": 3, "castWindowMs": 6500, "school": "fire", "effect": "none", "basePower": 36, "manaCost": 14 },
+  { "name": "Chronoshatter", "pattern": "Chron0Shatt3r", "tier": 3, "castWindowMs": 6500, "school": "arcane", "effect": "interrupt", "basePower": 34, "manaCost": 14 },
+  { "name": "Crystallization", "pattern": "Crysta11izati0n", "tier": 3, "castWindowMs": 6500, "school": "ice", "effect": "slow", "basePower": 34, "manaCost": 13 },
+  { "name": "Pyro Lance", "pattern": "pyr@ok^az/*za", "tier": 3, "castWindowMs": 2000, "school": "fire", "effect": "none", "basePower": 30, "manaCost": 20 },
+
+  { "name": "Hex-Bolt", "pattern": "Hex*Bolt!7", "tier": 4, "castWindowMs": 8000, "school": "arcane", "effect": "none", "basePower": 30, "manaCost": 11 },
+  { "name": "Rune-Lock", "pattern": "Rune#Lock#3", "tier": 4, "castWindowMs": 8000, "school": "arcane", "effect": "shield", "basePower": 0, "manaCost": 10 },
+  { "name": "Frost-Snap", "pattern": "FrostDownSnap@5", "tier": 4, "castWindowMs": 8000, "school": "ice", "effect": "slow", "basePower": 28, "manaCost": 11 }
+]
